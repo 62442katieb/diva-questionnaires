@@ -1,1 +1,40 @@
-{"@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic", "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field", "schema:schemaVersion": "0.0.1", "schema:version": "0.0.1", "@id": "fewFears", "skos:prefLabel": "BIS question about having few fears relative to friends", "skos:altLabel": "BIS6", "schema:description": "asks participant if they have few fears relative to their friends", "question": "I have very few fears compared to my friends.", "ui": {"inputType": "radio", "allow": ["autoAdvance"]}, "responseOptions": {"minValue": 1, "maxValue": 4, "requiredValue": true, "choices": [{"schema:name": "1 - very true for me", "schema:value": 1}, {"schema:name": "2 - somewhat true for me", "schema:value": 2}, {"schema:name": "3 - somewhat false for me", "schema:value": 3}, {"schema:name": "4 - very false for me", "schema:value": 4}]}}
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "fewFears",
+    "skos:prefLabel": "BIS question about having few fears relative to friends",
+    "skos:altLabel": "BIS6",
+    "schema:description": "asks participant if they have few fears relative to their friends",
+    "question": "I have very few fears compared to my friends.",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "minValue": 1,
+        "maxValue": 4,
+        "requiredValue": true,
+        "choices": [
+            {
+                "schema:name": "1 - very true for me",
+                "schema:value": 1
+            },
+            {
+                "schema:name": "2 - somewhat true for me",
+                "schema:value": 2
+            },
+            {
+                "schema:name": "3 - somewhat false for me",
+                "schema:value": 3
+            },
+            {
+                "schema:name": "4 - very false for me",
+                "schema:value": 4
+            }
+        ]
+    }
+}
