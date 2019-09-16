@@ -20,6 +20,10 @@
         {
             "variableName": "bisbas",
             "isAbout": "bisbas"
+        },
+        {
+            "variableName": "pss",
+            "isAbout": "pss"
         }
     ],
     "ui": {
@@ -30,15 +34,18 @@
         ],
         "order": [
             "panas",
-            "bisbas"
+            "bisbas",
+            "pss"
         ],
         "visibility": {
             "panas": true,
-            "bisbas": true
+            "bisbas": true,
+            "pss": true
         },
         "activity_display_name": {
             "panas": "PANAS",
-            "bisbas": "BIS/BAS Scale"
+            "bisbas": "BIS/BAS Scale",
+            "pss": "PSS"
         }
     }
 }
