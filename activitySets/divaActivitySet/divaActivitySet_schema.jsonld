@@ -6,6 +6,8 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
+    "schema:about": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/README.md",
+    "schema:image": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/diva-logo.svg",
     "@id": "divaActivitySet",
     "skos:prefLabel": "diva activity set",
     "skos:altLabel": "divaActivity",
