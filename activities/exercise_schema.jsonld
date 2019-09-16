@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activities/exercise_context.jsonld",
+        "https://62442katieb.github.io/diva-questionnaires/activities/exercise_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "bisbas",
+    "skos:prefLabel": "Godin Leisure-Time Exercise Questionnaire",
+    "skos:altLabel": "Exercise Questionnaire",
+    "schema:description": "An exercise questionnaire",
+    "preamble": "During a typical 7-Day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time (write on each line the appropriate number).",
+    "variableMap": [
+        {
+            "variableName": "exerciseStrenuous",
+            "isAbout": "exerciseStrenuous"
+        },
+        {
+            "variableName": "exerciseModerate",
+            "isAbout": "exerciseModerate"
+        },
+        {
+            "variableName": "exerciseMild",
+            "isAbout": "exerciseMild"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "exerciseStrenuous",
+            "exerciseModerate",
+            "exerciseMild"
+        ],
+        "visibility": {
+            "exerciseStrenuous": true,
+            "exerciseModerate": true,
+            "exerciseMild": true
+        }
+    }
+}
