@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "exerciseMild",
+    "skos:prefLabel": "Exercise mild",
+    "skos:altLabel": "exerciseMild",
+    "schema:description": "asking how many 15-min periods of mild activity",
+    "question": "MILD/LIGHT EXERCISE\n(MINIMAL EFFORT)\n(e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
+    "ui": {
+        "inputType": "text",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}

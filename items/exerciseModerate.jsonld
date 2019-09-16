@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "exerciseModerate",
+    "skos:prefLabel": "Exercise moderate",
+    "skos:altLabel": "exerciseModerate",
+    "schema:description": "asking how many 15-min periods of moderate activity",
+    "question": "MODERATE EXERCISE\n(NOT EXHAUSTING)\n(e.g., fast walking, baseball, tennis, easy bicycling, volleyball, badminton, easy swimming, alpine skiing, popular and folk dancing)",
+    "ui": {
+        "inputType": "text",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}

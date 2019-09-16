@@ -1,0 +1,96 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activities/perceived_stress_context.jsonld",
+        "https://62442katieb.github.io/diva-questionnaires/activities/perceived_stress_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "pss",
+    "skos:prefLabel": "Perceived Stress Scale",
+    "skos:altLabel": "PSS",
+    "schema:description": "Perceived Stress Scale (Cohen, Kamarck, & Mermelstein, 1994).",
+    "preamble": "*The questions in this scale ask you about your feelings and thoughts* during the last month. *In each case, you will be asked to indicate by circling **how often** you felt or thought a certain way.*",
+    "variableMap": [
+        {
+            "variableName": "perceivedStressUpset",
+            "isAbout": "perceivedStressUpset"
+        },
+        {
+            "variableName": "perceivedStressLackOfControl",
+            "isAbout": "perceivedStressLackOfControl"
+        },
+        {
+            "variableName": "perceivedStressNervous",
+            "isAbout": "perceivedStressNervous"
+        },
+        {
+            "variableName": "perceivedStressConfident",
+            "isAbout": "perceivedStressConfident"
+        },
+        {
+            "variableName": "perceivedStressGoingYourWay",
+            "isAbout": "perceivedStressGoingYourWay"
+        },
+        {
+            "variableName": "perceivedStressCoping",
+            "isAbout": "perceivedStressCoping"
+        },
+        {
+            "variableName": "perceivedStressControlIrritations",
+            "isAbout": "perceivedStressControlIrritations"
+        },
+        {
+            "variableName": "perceivedStressControlIrritations",
+            "isAbout": "perceivedStressControlIrritations"
+        },
+        {
+            "variableName": "perceivedStressOnTop",
+            "isAbout": "perceivedStressOnTop"
+        },
+        {
+            "variableName": "perceivedStressOnTop",
+            "isAbout": "perceivedStressOnTop"
+        },
+        {
+            "variableName": "perceivedStressAnger",
+            "isAbout": "perceivedStressAnger"
+        },
+        {
+            "variableName": "perceivedStressDifficulties",
+            "isAbout": "perceivedStressDifficulties"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "perceivedStressUpset",
+            "perceivedStressLackOfControl",
+            "perceivedStressNervous",
+            "perceivedStressConfident",
+            "perceivedStressGoingYourWay",
+            "perceivedStressCoping",
+            "perceivedStressControlIrritations",
+            "perceivedStressOnTop",
+            "perceivedStressAnger",
+            "perceivedStressDifficulties"
+        ],
+        "visibility": {
+            "perceivedStressUpset": true,
+            "perceivedStressLackOfControl": true,
+            "perceivedStressNervous": true,
+            "perceivedStressConfident": true,
+            "perceivedStressGoingYourWay": true,
+            "perceivedStressCoping": true,
+            "perceivedStressControlIrritations": true,
+            "perceivedStressOnTop": true,
+            "perceivedStressAnger": true,
+            "perceivedStressDifficulties": true,
+        }
+    }
+}

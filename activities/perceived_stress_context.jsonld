@@ -1,0 +1,45 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "perceivedStressUpset": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressUpset.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressLackOfControl": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressLackOfControl.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressNervous": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressNervous.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressConfident": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressConfident.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressGoingYourWay": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressGoingYourWay.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressCoping": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressCoping.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressControlIrritations": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressControlIrritations.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressOnTop": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressOnTop.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressAnger": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressAnger.jsonld",
+            "@type": "@id"
+        },
+        "perceivedStressDifficulties": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/perceivedStressDifficulties.jsonld",
+            "@type": "@id"
+        }
+    }
+}
