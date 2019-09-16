@@ -1,1 +1,42 @@
-{"@context": ["https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic", "https://62442katieb.github.io/diva-questionnaires/activitySets/divaActivitySet/divaActivitySet_context.jsonld"], "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet", "schema:schemaVersion": "0.0.1", "schema:version": "0.0.1", "@id": "divaActivitySet", "skos:prefLabel": "diva activity set", "skos:altLabel": "divaActivity", "schema:description": "an activitySet that administers all the questionnaires for DIVA", "variableMap": [{"variableName": "panas", "isAbout": "panas"}, {"variableName": "bisbas", "isAbout": "bisbas"}], "ui": {"shuffle": false, "allow": ["skipped", "dontKnow"], "order": ["panas", "bisbas"], "visibility": {"panas": true, "bisbas": true}, "activity_display_name": {"panas": "PANAS", "bisbas": "BIS/BAS Scale"}}}
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activitySets/divaActivitySet/divaActivitySet_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "divaActivitySet",
+    "skos:prefLabel": "diva activity set",
+    "skos:altLabel": "divaActivity",
+    "schema:description": "an activitySet that administers all the questionnaires for DIVA",
+    "variableMap": [
+        {
+            "variableName": "panas",
+            "isAbout": "panas"
+        },
+        {
+            "variableName": "bisbas",
+            "isAbout": "bisbas"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "panas",
+            "bisbas"
+        ],
+        "visibility": {
+            "panas": true,
+            "bisbas": true
+        },
+        "activity_display_name": {
+            "panas": "PANAS",
+            "bisbas": "BIS/BAS Scale"
+        }
+    }
+}
