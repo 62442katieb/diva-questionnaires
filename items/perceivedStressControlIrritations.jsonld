@@ -1,0 +1,44 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "perceivedStressControlIrritations",
+    "skos:prefLabel": "PSS Control irritations",
+    "skos:altLabel": "PSS07",
+    "schema:description": "asks participant how often they could control irritations",
+    "question": "In the last month, how often have you been able to control irritations in your life?",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "minValue": 0,
+        "maxValue": 4,
+        "requiredValue": true,
+        "choices": [
+            {
+                "schema:name": "0 - Never",
+                "schema:value": 0
+            },
+            {
+                "schema:name": "1 - Almost Never",
+                "schema:value": 1
+            },
+            {
+                "schema:name": "2 - Sometimes",
+                "schema:value": 2
+            },
+            {
+                "schema:name": "3 - Fairly Often",
+                "schema:value": 3
+            },
+            {
+                "schema:name": "4 - Very Often",
+                "schema:value": 4
+            }
+        ]
+    }
+}

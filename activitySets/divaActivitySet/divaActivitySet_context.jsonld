@@ -8,6 +8,14 @@
         "bisbas": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/activities/bisbas_schema.jsonld",
             "@type": "@id"
+        },
+        "pss": {
+          "@id": "https://62442katieb.github.io/diva-questionnaires/activities/perceived_stress_schema.jsonld",
+          "@type": "@id"
+        },
+        "exercise": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/exercise_schema.jsonld",
+            "@type": "@id"
         }
     }
 }

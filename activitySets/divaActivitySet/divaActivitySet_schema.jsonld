@@ -20,6 +20,14 @@
         {
             "variableName": "bisbas",
             "isAbout": "bisbas"
+        },
+        {
+            "variableName": "pss",
+            "isAbout": "pss"
+        },
+        {
+            "variableName": "exercise",
+            "isAbout": "exercise"
         }
     ],
     "ui": {
@@ -30,15 +38,21 @@
         ],
         "order": [
             "panas",
-            "bisbas"
+            "bisbas",
+            "pss",
+            "exercise"
         ],
         "visibility": {
             "panas": true,
-            "bisbas": true
+            "bisbas": true,
+            "pss": true,
+            "exercise": true
         },
         "activity_display_name": {
             "panas": "PANAS",
-            "bisbas": "BIS/BAS Scale"
+            "bisbas": "BIS/BAS Scale",
+            "pss": "PSS",
+            "exercise": "Exercise"
         }
     }
 }

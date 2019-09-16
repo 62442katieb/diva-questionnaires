@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "exerciseStrenuous",
+    "skos:prefLabel": "Exercise strenuous",
+    "skos:altLabel": "exerciseStrenuous",
+    "schema:description": "asking how many 15-min periods of strenuous activity",
+    "question": "STRENUOUS EXERCISE\n(HEART BEATS RAPIDLY)\n(e.g., running, jogging, hockey, football, soccer, squash, basketball, cross country skiing, judo, roller skating, vigorous swimming, vigorous long distance bicycling)",
+    "ui": {
+        "inputType": "text",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}

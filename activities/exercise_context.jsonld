@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "exerciseStrenuous": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/exerciseStrenuous.jsonld",
+            "@type": "@id"
+        },
+        "exerciseModerate": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/exerciseModerate.jsonld",
+            "@type": "@id"
+        },
+        "exerciseMild": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/exerciseMild.jsonld",
+            "@type": "@id"
+        }
+    }
+}
