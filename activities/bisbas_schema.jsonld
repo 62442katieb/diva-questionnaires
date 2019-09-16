@@ -1,1 +1,166 @@
-{"@context": ["https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic", "https://62442katieb.github.io/diva-questionnaires/activities/bisbas_context.jsonld"], "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity", "schema:schemaVersion": "0.0.1", "schema:version": "0.0.1", "@id": "bisbas", "skos:prefLabel": "Behavioral Inhibition and Activation System Scales", "skos:altLabel": "BIS/BAS Scale", "schema:description": "Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS scales (Carver & White, 1994)", "preamble": "", "variableMap": [{"variableName": "familyImportance", "isAbout": "familyImportance"}, {"variableName": "fearNervous", "isAbout": "fearNervous"}, {"variableName": "getWant", "isAbout": "getWant"}, {"variableName": "keepAtIt", "isAbout": "keepAtIt"}, {"variableName": "tryNewFun", "isAbout": "tryNewFun"}, {"variableName": "dressImportance", "isAbout": "dressImportance"}, {"variableName": "excitedGetWant", "isAbout": "excitedGetWant"}, {"variableName": "excitedGetWant", "isAbout": "excitedGetWant"}, {"variableName": "allOutGetWant", "isAbout": "allOutGetWant"}, {"variableName": "allOutGetWant", "isAbout": "allOutGetWant"}, {"variableName": "findTime", "isAbout": "findTime"}, {"variableName": "getSomethingMove", "isAbout": "getSomethingMove"}, {"variableName": "upsetSomebodyAngry", "isAbout": "upsetSomebodyAngry"}, {"variableName": "opportunityExcited", "isAbout": "opportunityExcited"}, {"variableName": "actSpurMoment", "isAbout": "actSpurMoment"}, {"variableName": "workedUpUnpleasant", "isAbout": "workedUpUnpleasant"}, {"variableName": "whyPeopleAct", "isAbout": "whyPeopleAct"}, {"variableName": "goodThingsAffect", "isAbout": "goodThingsAffect"}, {"variableName": "worryDonePoorly", "isAbout": "worryDonePoorly"}, {"variableName": "craveExcitement", "isAbout": "craveExcitement"}, {"variableName": "noHoldsBarred", "isAbout": "noHoldsBarred"}, {"variableName": "fewFears", "isAbout": "fewFears"}, {"variableName": "exciteWin", "isAbout": "exciteWin"}, {"variableName": "worryMistakes", "isAbout": "worryMistakes"}], "ui": {"shuffle": false, "allow": ["skipped", "dontKnow"], "order": ["familyImportance", "fearNervous", "getWant", "keepAtIt", "tryNewFun", "dressImportance", "excitedGetWant", "excitedGetWant", "allOutGetWant", "allOutGetWant", "findTime", "getSomethingMove", "upsetSomebodyAngry", "opportunityExcited", "actSpurMoment", "workedUpUnpleasant", "whyPeopleAct", "goodThingsAffect", "worryDonePoorly", "craveExcitement", "noHoldsBarred", "fewFears", "exciteWin", "worryMistakes"], "visibility": {"familyImportance": true, "fearNervous": true, "getWant": true, "keepAtIt": true, "tryNewFun": true, "dressImportance": true, "excitedGetWant": true, "allOutGetWant": true, "findTime": true, "getSomethingMove": true, "upsetSomebodyAngry": true, "opportunityExcited": true, "actSpurMoment": true, "workedUpUnpleasant": true, "whyPeopleAct": true, "goodThingsAffect": true, "worryDonePoorly": true, "craveExcitement": true, "noHoldsBarred": true, "fewFears": true, "exciteWin": true, "worryMistakes": true}}}
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activities/bisbas_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "bisbas",
+    "skos:prefLabel": "Behavioral Inhibition and Activation System Scales",
+    "skos:altLabel": "BIS/BAS Scale",
+    "schema:description": "Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS scales (Carver & White, 1994)",
+    "preamble": "Each item of this questionnaire is a statement that a person may either agree with or disagree with. For each item,indicate how much you agree or disagree with what the item says. Please be as accurate and honest as you can be. Respond to each item as if it were the only item. That is, don't worry about being "consistent" in your responses.",
+    "variableMap": [
+        {
+            "variableName": "familyImportance",
+            "isAbout": "familyImportance"
+        },
+        {
+            "variableName": "fearNervous",
+            "isAbout": "fearNervous"
+        },
+        {
+            "variableName": "getWant",
+            "isAbout": "getWant"
+        },
+        {
+            "variableName": "keepAtIt",
+            "isAbout": "keepAtIt"
+        },
+        {
+            "variableName": "tryNewFun",
+            "isAbout": "tryNewFun"
+        },
+        {
+            "variableName": "dressImportance",
+            "isAbout": "dressImportance"
+        },
+        {
+            "variableName": "excitedGetWant",
+            "isAbout": "excitedGetWant"
+        },
+        {
+            "variableName": "excitedGetWant",
+            "isAbout": "excitedGetWant"
+        },
+        {
+            "variableName": "allOutGetWant",
+            "isAbout": "allOutGetWant"
+        },
+        {
+            "variableName": "allOutGetWant",
+            "isAbout": "allOutGetWant"
+        },
+        {
+            "variableName": "findTime",
+            "isAbout": "findTime"
+        },
+        {
+            "variableName": "getSomethingMove",
+            "isAbout": "getSomethingMove"
+        },
+        {
+            "variableName": "upsetSomebodyAngry",
+            "isAbout": "upsetSomebodyAngry"
+        },
+        {
+            "variableName": "opportunityExcited",
+            "isAbout": "opportunityExcited"
+        },
+        {
+            "variableName": "actSpurMoment",
+            "isAbout": "actSpurMoment"
+        },
+        {
+            "variableName": "workedUpUnpleasant",
+            "isAbout": "workedUpUnpleasant"
+        },
+        {
+            "variableName": "whyPeopleAct",
+            "isAbout": "whyPeopleAct"
+        },
+        {
+            "variableName": "goodThingsAffect",
+            "isAbout": "goodThingsAffect"
+        },
+        {
+            "variableName": "worryDonePoorly",
+            "isAbout": "worryDonePoorly"
+        },
+        {
+            "variableName": "craveExcitement",
+            "isAbout": "craveExcitement"
+        },
+        {
+            "variableName": "noHoldsBarred",
+            "isAbout": "noHoldsBarred"
+        },
+        {
+            "variableName": "fewFears",
+            "isAbout": "fewFears"
+        },
+        {
+            "variableName": "exciteWin",
+            "isAbout": "exciteWin"
+        },
+        {
+            "variableName": "worryMistakes",
+            "isAbout": "worryMistakes"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [],
+        "order": [
+            "familyImportance",
+            "fearNervous",
+            "getWant",
+            "keepAtIt",
+            "tryNewFun",
+            "dressImportance",
+            "excitedGetWant",
+            "excitedGetWant",
+            "allOutGetWant",
+            "allOutGetWant",
+            "findTime",
+            "getSomethingMove",
+            "upsetSomebodyAngry",
+            "opportunityExcited",
+            "actSpurMoment",
+            "workedUpUnpleasant",
+            "whyPeopleAct",
+            "goodThingsAffect",
+            "worryDonePoorly",
+            "craveExcitement",
+            "noHoldsBarred",
+            "fewFears",
+            "exciteWin",
+            "worryMistakes"
+        ],
+        "visibility": {
+            "familyImportance": true,
+            "fearNervous": true,
+            "getWant": true,
+            "keepAtIt": true,
+            "tryNewFun": true,
+            "dressImportance": true,
+            "excitedGetWant": true,
+            "allOutGetWant": true,
+            "findTime": true,
+            "getSomethingMove": true,
+            "upsetSomebodyAngry": true,
+            "opportunityExcited": true,
+            "actSpurMoment": true,
+            "workedUpUnpleasant": true,
+            "whyPeopleAct": true,
+            "goodThingsAffect": true,
+            "worryDonePoorly": true,
+            "craveExcitement": true,
+            "noHoldsBarred": true,
+            "fewFears": true,
+            "exciteWin": true,
+            "worryMistakes": true
+        }
+    }
+}
