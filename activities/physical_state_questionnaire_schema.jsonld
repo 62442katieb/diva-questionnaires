@@ -1,0 +1,118 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_context.jsonld",
+        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "physical_state",
+    "skos:prefLabel": "Bottenhorn Physical State Questionnaire",
+    "skos:altLabel": "Physical State Questionnaire",
+    "schema:description": "A custom physical state questionnaire",
+    "preamble": "Please answer the following questions to the best of your memory:",
+    "variableMap": [
+        {
+            "variableName": "physicalStateCaffeine",
+            "isAbout": "physicalStateCaffeine"
+        },
+        {
+            "variableName": "physicalStateCaffeineHours",
+            "isAbout": "physicalStateCaffeineHours"
+        },
+        {
+            "variableName": "physicalStateCaffeineMg",
+            "isAbout": "physicalStateCaffeineMg"
+        },
+        {
+            "variableName": "physicalStateCigarette",
+            "isAbout": "physicalStateCigarette"
+        },
+        {
+            "variableName": "physicalStateCigaretteHours",
+            "isAbout": "physicalStateCigaretteHours"
+        },
+        {
+            "variableName": "physicalStateCigaretteMg",
+            "isAbout": "physicalStateCigaretteMg"
+        },
+        {
+            "variableName": "physicalStateAspirin",
+            "isAbout": "physicalStateAspirin"
+        },
+        {
+            "variableName": "physicalStateAspirinHours",
+            "isAbout": "physicalStateAspirinHours"
+        },
+        {
+            "variableName": "physicalStateAspirinMg",
+            "isAbout": "physicalStateAspirinMg"
+        },
+        {
+            "variableName": "physicalStateIbuprofen",
+            "isAbout": "physicalStateIbuprofen"
+        },
+        {
+            "variableName": "physicalStateIbuprofenHours",
+            "isAbout": "physicalStateIbuprofenHours"
+        },
+        {
+            "variableName": "physicalStateIbuprofenMg",
+            "isAbout": "physicalStateIbuprofenMg"
+        },
+        {
+            "variableName": "physicalStateAcetaminophen",
+            "isAbout": "physicalStateAcetaminophen"
+        },
+        {
+            "variableName": "physicalStateAcetaminophenHours",
+            "isAbout": "physicalStateAcetaminophenHours"
+        },
+        {
+            "variableName": "physicalStateAcetaminophenMg",
+            "isAbout": "physicalStateAcetaminophenMg"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "physicalStateCaffeine",
+            "physicalStateCaffeineHours",
+            "physicalStateCaffeineMg",
+            "physicalStateCigarette",
+            "physicalStateCigaretteHours",
+            "physicalStateCigaretteMg",
+            "physicalStateAspirin",
+            "physicalStateAspirinHours",
+            "physicalStateAspirinMg",
+            "physicalStateIbuprofen",
+            "physicalStateIbuprofenHours",
+            "physicalStateIbuprofenMg",
+            "physicalStateAcetaminophen",
+            "physicalStateAcetaminophenHours",
+            "physicalStateAcetaminophenMg"
+        ],
+        "visibility": {
+            "physicalStateCaffeine": true,
+            "physicalStateCaffeineHours": "physicalStateCaffeine",
+            "physicalStateCaffeineMg": "physicalStateCaffeine",
+            "physicalStateCigarette": true,
+            "physicalStateCigaretteHours": "physicalStateCigarette",
+            "physicalStateCigaretteMg": "physicalStateCigarette",
+            "physicalStateAspirin": true,
+            "physicalStateAspirinHours": "physicalStateAspirin",
+            "physicalStateAspirinMg": "physicalStateAspirin",
+            "physicalStateIbuprofen": true,
+            "physicalStateIbuprofenHours": "physicalStateIbuprofen",
+            "physicalStateIbuprofenMg": "physicalStateIbuprofen",
+            "physicalStateAcetaminophen": true,
+            "physicalStateAcetaminophenHours": "physicalStateAcetaminophen",
+            "physicalStateAcetaminophenMg": "physicalStateAcetaminophen"
+        }
+    }
+}

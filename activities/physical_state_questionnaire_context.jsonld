@@ -1,0 +1,65 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "physicalStateCaffeine": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCaffeine.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateCaffeineHours": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCaffeineHours.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateCaffeineMg": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCaffeineMg.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateCigarette": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCigarette.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateCigaretteHours": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCigaretteHours.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateCigaretteMg": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateCigaretteMg.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAspirin": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAspirin.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAspirinHours": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAspirinHours.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAspirin": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAspirinMg.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateIbuprofen": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateIbuprofen.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateIbuprofenHours": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateIbuprofenHours.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateIbuprofen": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateIbuprofenMg.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAcetaminophen": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAcetaminophen.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAcetaminophenHours": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAcetaminophenHours.jsonld",
+            "@type": "@id"
+        },
+        "physicalStateAcetaminophenMg": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAcetaminophenMg.jsonld",
+            "@type": "@id"
+        }
+    }
+}
