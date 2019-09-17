@@ -28,6 +28,10 @@
         {
             "variableName": "exercise",
             "isAbout": "exercise"
+        },
+        {
+            "variableName": "physical_state",
+            "isAbout": "physical_state"
         }
     ],
     "ui": {
@@ -40,19 +44,22 @@
             "panas",
             "bisbas",
             "pss",
-            "exercise"
+            "exercise",
+            "physical_state"
         ],
         "visibility": {
             "panas": true,
             "bisbas": true,
             "pss": true,
-            "exercise": true
+            "exercise": true,
+            "physical_state": true
         },
         "activity_display_name": {
             "panas": "PANAS",
             "bisbas": "BIS/BAS Scale",
             "pss": "PSS",
-            "exercise": "Exercise"
+            "exercise": "Exercise",
+            "physical_state": "Physical State"
         }
     }
 }

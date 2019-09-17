@@ -16,6 +16,10 @@
         "exercise": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/activities/exercise_schema.jsonld",
             "@type": "@id"
+        },
+        "physical_state": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_schema.jsonld",
+            "@type": "@id"
         }
     }
 }
