@@ -1,0 +1,40 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "pittsburghSleepEnthusiasm",
+    "skos:prefLabel": "Not Enough Enthusiasm",
+    "skos:altLabel": "PSQI9",
+    "schema:description": "not enough enthusiasm",
+    "question": "During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "minValue": 1,
+        "maxValue": 4,
+        "requiredValue": true,
+        "choices": [
+            {
+                "schema:name": "1 - No problem at all",
+                "schema:value": 1
+            },
+            {
+                "schema:name": "2 - Only a slight problem",
+                "schema:value": 2
+            },
+            {
+                "schema:name": "3 - Somewhat of a problem",
+                "schema:value": 3
+            },
+            {
+                "schema:name": "4 - A very big problem",
+                "schema:value": 4
+            },
+        ]
+    }
+}

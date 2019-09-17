@@ -1,0 +1,20 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "@id": "pittsburghSleepIfPartnerOther",
+    "skos:prefLabel": "If Partner/Roommate, Other Restlessness?",
+    "skos:altLabel": "PSQI10e",
+    "schema:description": "does partner or roommate say you're restless (other)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "### Ask your room mate or bed partner how often in the past month you have had...\r\n\r\nOther restlessness while you sleep? (please describe)",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 500
+    }
+}

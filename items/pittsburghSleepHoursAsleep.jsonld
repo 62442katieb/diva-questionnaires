@@ -1,0 +1,20 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "@id": "pittsburghSleepHoursSleep",
+    "skos:prefLabel": "Hours Asleep",
+    "skos:altLabel": "PSQI4",
+    "schema:description": "Hours of Sleep Per Night",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "During the past month, how manu hours of *actual sleep* did you get at night? (This may be different than the number of hours you spent in bed.)",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}
