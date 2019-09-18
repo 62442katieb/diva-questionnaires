@@ -14,244 +14,244 @@
     "preamble": "This scale consists of a number of words and phrases that describe different feelings and emotions. Read each item and then mark the appropriate answer in the space next to that word. Indicate to what extent you have felt this way during the past week.",
     "variableMap": [
         {
-            "variableName": "cheerful",
-            "isAbout": "cheerful"
+            "variableName": "PANAScheerful",
+            "isAbout": "PANAScheerful"
         },
         {
-            "variableName": "disgusted",
-            "isAbout": "disgusted"
+            "variableName": "PANASdisgusted",
+            "isAbout": "PANASdisgusted"
         },
         {
-            "variableName": "attentive",
-            "isAbout": "attentive"
+            "variableName": "PANASattentive",
+            "isAbout": "PANASattentive"
         },
         {
-            "variableName": "bashful",
-            "isAbout": "bashful"
+            "variableName": "PANASbashful",
+            "isAbout": "PANASbashful"
         },
         {
-            "variableName": "sluggish",
-            "isAbout": "sluggish"
+            "variableName": "PANASsluggish",
+            "isAbout": "PANASsluggish"
         },
         {
-            "variableName": "daring",
-            "isAbout": "daring"
+            "variableName": "PANASdaring",
+            "isAbout": "PANASdaring"
         },
         {
-            "variableName": "surprised",
-            "isAbout": "surprised"
+            "variableName": "PANASsurprised",
+            "isAbout": "PANASsurprised"
         },
         {
-            "variableName": "strong",
-            "isAbout": "strong"
+            "variableName": "PANASstrong",
+            "isAbout": "PANASstrong"
         },
         {
-            "variableName": "scornful",
-            "isAbout": "scornful"
+            "variableName": "PANASscornful",
+            "isAbout": "PANASscornful"
         },
         {
-            "variableName": "relaxed",
-            "isAbout": "relaxed"
+            "variableName": "PANASrelaxed",
+            "isAbout": "PANASrelaxed"
         },
         {
-            "variableName": "irritable",
-            "isAbout": "irritable"
+            "variableName": "PANASirritable",
+            "isAbout": "PANASirritable"
         },
         {
-            "variableName": "delighted",
-            "isAbout": "delighted"
+            "variableName": "PANASdelighted",
+            "isAbout": "PANASdelighted"
         },
         {
-            "variableName": "inspired",
-            "isAbout": "inspired"
+            "variableName": "PANASinspired",
+            "isAbout": "PANASinspired"
         },
         {
-            "variableName": "fearless",
-            "isAbout": "fearless"
+            "variableName": "PANASfearless",
+            "isAbout": "PANASfearless"
         },
         {
-            "variableName": "disgustedWSelf",
-            "isAbout": "disgustedWSelf"
+            "variableName": "PANASdisgustedWSelf",
+            "isAbout": "PANASdisgustedWSelf"
         },
         {
-            "variableName": "sad",
-            "isAbout": "sad"
+            "variableName": "PANASsad",
+            "isAbout": "PANASsad"
         },
         {
-            "variableName": "calm",
-            "isAbout": "calm"
+            "variableName": "PANAScalm",
+            "isAbout": "PANAScalm"
         },
         {
-            "variableName": "afraid",
-            "isAbout": "afraid"
+            "variableName": "PANASafraid",
+            "isAbout": "PANASafraid"
         },
         {
-            "variableName": "tired",
-            "isAbout": "tired"
+            "variableName": "PANAStired",
+            "isAbout": "PANAStired"
         },
         {
-            "variableName": "amazed",
-            "isAbout": "amazed"
+            "variableName": "PANASamazed",
+            "isAbout": "PANASamazed"
         },
         {
-            "variableName": "shaky",
-            "isAbout": "shaky"
+            "variableName": "PANASshaky",
+            "isAbout": "PANASshaky"
         },
         {
-            "variableName": "happy",
-            "isAbout": "happy"
+            "variableName": "PANAShappy",
+            "isAbout": "PANAShappy"
         },
         {
-            "variableName": "timid",
-            "isAbout": "timid"
+            "variableName": "PANAStimid",
+            "isAbout": "PANAStimid"
         },
         {
-            "variableName": "alone",
-            "isAbout": "alone"
+            "variableName": "PANASalone",
+            "isAbout": "PANASalone"
         },
         {
-            "variableName": "alert",
-            "isAbout": "alert"
+            "variableName": "PANASalert",
+            "isAbout": "PANASalert"
         },
         {
-            "variableName": "upset",
-            "isAbout": "upset"
+            "variableName": "PANASupset",
+            "isAbout": "PANASupset"
         },
         {
-            "variableName": "angry",
-            "isAbout": "angry"
+            "variableName": "PANASangry",
+            "isAbout": "PANASangry"
         },
         {
-            "variableName": "bold",
-            "isAbout": "bold"
+            "variableName": "PANASbold",
+            "isAbout": "PANASbold"
         },
         {
-            "variableName": "blue",
-            "isAbout": "blue"
+            "variableName": "PANASblue",
+            "isAbout": "PANASblue"
         },
         {
-            "variableName": "shy",
-            "isAbout": "shy"
+            "variableName": "PANASshy",
+            "isAbout": "PANASshy"
         },
         {
-            "variableName": "active",
-            "isAbout": "active"
+            "variableName": "PANASactive",
+            "isAbout": "PANASactive"
         },
         {
-            "variableName": "guilty",
-            "isAbout": "guilty"
+            "variableName": "PANASguilty",
+            "isAbout": "PANASguilty"
         },
         {
-            "variableName": "joyful",
-            "isAbout": "joyful"
+            "variableName": "PANASjoyful",
+            "isAbout": "PANASjoyful"
         },
         {
-            "variableName": "nervous",
-            "isAbout": "nervous"
+            "variableName": "PANASnervous",
+            "isAbout": "PANASnervous"
         },
         {
-            "variableName": "lonely",
-            "isAbout": "lonely"
+            "variableName": "PANASlonely",
+            "isAbout": "PANASlonely"
         },
         {
-            "variableName": "sleepy",
-            "isAbout": "sleepy"
+            "variableName": "PANASsleepy",
+            "isAbout": "PANASsleepy"
         },
         {
-            "variableName": "excited",
-            "isAbout": "excited"
+            "variableName": "PANASexcited",
+            "isAbout": "PANASexcited"
         },
         {
-            "variableName": "hostile",
-            "isAbout": "hostile"
+            "variableName": "PANAShostile",
+            "isAbout": "PANAShostile"
         },
         {
-            "variableName": "proud",
-            "isAbout": "proud"
+            "variableName": "PANASproud",
+            "isAbout": "PANASproud"
         },
         {
-            "variableName": "jittery",
-            "isAbout": "jittery"
+            "variableName": "PANASjittery",
+            "isAbout": "PANASjittery"
         },
         {
-            "variableName": "lively",
-            "isAbout": "lively"
+            "variableName": "PANASlively",
+            "isAbout": "PANASlively"
         },
         {
-            "variableName": "ashamed",
-            "isAbout": "ashamed"
+            "variableName": "PANASashamed",
+            "isAbout": "PANASashamed"
         },
         {
-            "variableName": "atEase",
-            "isAbout": "atEase"
+            "variableName": "PANASatEase",
+            "isAbout": "PANASatEase"
         },
         {
-            "variableName": "scared",
-            "isAbout": "scared"
+            "variableName": "PANASscared",
+            "isAbout": "PANASscared"
         },
         {
-            "variableName": "drowsy",
-            "isAbout": "drowsy"
+            "variableName": "PANASdrowsy",
+            "isAbout": "PANASdrowsy"
         },
         {
-            "variableName": "angryAtSelf",
-            "isAbout": "angryAtSelf"
+            "variableName": "PANASangryAtSelf",
+            "isAbout": "PANASangryAtSelf"
         },
         {
-            "variableName": "enthusastic",
-            "isAbout": "enthusastic"
+            "variableName": "PANASenthusastic",
+            "isAbout": "PANASenthusastic"
         },
         {
-            "variableName": "downhearted",
-            "isAbout": "downhearted"
+            "variableName": "PANASdownhearted",
+            "isAbout": "PANASdownhearted"
         },
         {
-            "variableName": "sheepish",
-            "isAbout": "sheepish"
+            "variableName": "PANASsheepish",
+            "isAbout": "PANASsheepish"
         },
         {
-            "variableName": "distressed",
-            "isAbout": "distressed"
+            "variableName": "PANASdistressed",
+            "isAbout": "PANASdistressed"
         },
         {
-            "variableName": "blameworthy",
-            "isAbout": "blameworthy"
+            "variableName": "PANASblameworthy",
+            "isAbout": "PANASblameworthy"
         },
         {
-            "variableName": "determined",
-            "isAbout": "determined"
+            "variableName": "PANASdetermined",
+            "isAbout": "PANASdetermined"
         },
         {
-            "variableName": "frightened",
-            "isAbout": "frightened"
+            "variableName": "PANASfrightened",
+            "isAbout": "PANASfrightened"
         },
         {
-            "variableName": "astonished",
-            "isAbout": "astonished"
+            "variableName": "PANASastonished",
+            "isAbout": "PANASastonished"
         },
         {
-            "variableName": "interested",
-            "isAbout": "interested"
+            "variableName": "PANASinterested",
+            "isAbout": "PANASinterested"
         },
         {
-            "variableName": "loathing",
-            "isAbout": "loathing"
+            "variableName": "PANASloathing",
+            "isAbout": "PANASloathing"
         },
         {
-            "variableName": "confident",
-            "isAbout": "confident"
+            "variableName": "PANASconfident",
+            "isAbout": "PANASconfident"
         },
         {
-            "variableName": "energetic",
-            "isAbout": "energetic"
+            "variableName": "PANASenergetic",
+            "isAbout": "PANASenergetic"
         },
         {
-            "variableName": "concentrating",
-            "isAbout": "concentrating"
+            "variableName": "PANASconcentrating",
+            "isAbout": "PANASconcentrating"
         },
         {
-            "variableName": "dissatisfiedWSelf",
-            "isAbout": "dissatisfiedWSelf"
+            "variableName": "PANASdissatisfiedWSelf",
+            "isAbout": "PANASdissatisfiedWSelf"
         }
     ],
     "ui": {
@@ -261,128 +261,128 @@
             "dontKnow"
         ],
         "order": [
-            "cheerful",
-            "disgusted",
-            "attentive",
-            "bashful",
-            "sluggish",
-            "daring",
-            "surprised",
-            "strong",
-            "scornful",
-            "relaxed",
-            "irritable",
-            "delighted",
-            "inspired",
-            "fearless",
-            "disgustedWSelf",
-            "sad",
-            "calm",
-            "afraid",
-            "tired",
-            "amazed",
-            "shaky",
-            "happy",
-            "timid",
-            "alone",
-            "alert",
-            "upset",
-            "angry",
-            "bold",
-            "blue",
-            "shy",
-            "active",
-            "guilty",
-            "joyful",
-            "nervous",
-            "lonely",
-            "sleepy",
-            "excited",
-            "hostile",
-            "proud",
-            "jittery",
-            "lively",
-            "ashamed",
-            "atEase",
-            "scared",
-            "drowsy",
-            "angryAtSelf",
-            "enthusastic",
-            "downhearted",
-            "sheepish",
-            "distressed",
-            "blameworthy",
-            "determined",
-            "frightened",
-            "astonished",
-            "interested",
-            "loathing",
-            "confident",
-            "energetic",
-            "concentrating",
-            "dissatisfiedWSelf"
+            "PANAScheerful",
+            "PANASdisgusted",
+            "PANASattentive",
+            "PANASbashful",
+            "PANASsluggish",
+            "PANASdaring",
+            "PANASsurprised",
+            "PANASstrong",
+            "PANASscornful",
+            "PANASrelaxed",
+            "PANASirritable",
+            "PANASdelighted",
+            "PANASinspired",
+            "PANASfearless",
+            "PANASdisgustedWSelf",
+            "PANASsad",
+            "PANAScalm",
+            "PANASafraid",
+            "PANAStired",
+            "PANASamazed",
+            "PANASshaky",
+            "PANAShappy",
+            "PANAStimid",
+            "PANASalone",
+            "PANASalert",
+            "PANASupset",
+            "PANASangry",
+            "PANASbold",
+            "PANASblue",
+            "PANASshy",
+            "PANASactive",
+            "PANASguilty",
+            "PANASjoyful",
+            "PANASnervous",
+            "PANASlonely",
+            "PANASsleepy",
+            "PANASexcited",
+            "PANAShostile",
+            "PANASproud",
+            "PANASjittery",
+            "PANASlively",
+            "PANASashamed",
+            "PANASatEase",
+            "PANASscared",
+            "PANASdrowsy",
+            "PANASangryAtSelf",
+            "PANASenthusastic",
+            "PANASdownhearted",
+            "PANASsheepish",
+            "PANASdistressed",
+            "PANASblameworthy",
+            "PANASdetermined",
+            "PANASfrightened",
+            "PANASastonished",
+            "PANASinterested",
+            "PANASloathing",
+            "PANASconfident",
+            "PANASenergetic",
+            "PANASconcentrating",
+            "PANASdissatisfiedWSelf"
         ],
         "visibility": {
-            "cheerful": true,
-            "disgusted": true,
-            "attentive": true,
-            "bashful": true,
-            "sluggish": true,
-            "daring": true,
-            "surprised": true,
-            "strong": true,
-            "scornful": true,
-            "relaxed": true,
-            "irritable": true,
-            "delighted": true,
-            "inspired": true,
-            "fearless": true,
-            "disgustedWSelf": true,
-            "sad": true,
-            "calm": true,
-            "afraid": true,
-            "tired": true,
-            "amazed": true,
-            "shaky": true,
-            "happy": true,
-            "timid": true,
-            "alone": true,
-            "alert": true,
-            "upset": true,
-            "angry": true,
-            "bold": true,
-            "blue": true,
-            "shy": true,
-            "active": true,
-            "guilty": true,
-            "joyful": true,
-            "nervous": true,
-            "lonely": true,
-            "sleepy": true,
-            "excited": true,
-            "hostile": true,
-            "proud": true,
-            "jittery": true,
-            "lively": true,
-            "ashamed": true,
-            "atEase": true,
-            "scared": true,
-            "drowsy": true,
-            "angryAtSelf": true,
-            "enthusastic": true,
-            "downhearted": true,
-            "sheepish": true,
-            "distressed": true,
-            "blameworthy": true,
-            "determined": true,
-            "frightened": true,
-            "astonished": true,
-            "interested": true,
-            "loathing": true,
-            "confident": true,
-            "energetic": true,
-            "concentrating": true,
-            "dissatisfiedWSelf": true
+            "PANAScheerful": true,
+            "PANASdisgusted": true,
+            "PANASattentive": true,
+            "PANASbashful": true,
+            "PANASsluggish": true,
+            "PANASdaring": true,
+            "PANASsurprised": true,
+            "PANASstrong": true,
+            "PANASscornful": true,
+            "PANASrelaxed": true,
+            "PANASirritable": true,
+            "PANASdelighted": true,
+            "PANASinspired": true,
+            "PANASfearless": true,
+            "PANASdisgustedWSelf": true,
+            "PANASsad": true,
+            "PANAScalm": true,
+            "PANASafraid": true,
+            "PANAStired": true,
+            "PANASamazed": true,
+            "PANASshaky": true,
+            "PANAShappy": true,
+            "PANAStimid": true,
+            "PANASalone": true,
+            "PANASalert": true,
+            "PANASupset": true,
+            "PANASangry": true,
+            "PANASbold": true,
+            "PANASblue": true,
+            "PANASshy": true,
+            "PANASactive": true,
+            "PANASguilty": true,
+            "PANASjoyful": true,
+            "PANASnervous": true,
+            "PANASlonely": true,
+            "PANASsleepy": true,
+            "PANASexcited": true,
+            "PANAShostile": true,
+            "PANASproud": true,
+            "PANASjittery": true,
+            "PANASlively": true,
+            "PANASashamed": true,
+            "PANASatEase": true,
+            "PANASscared": true,
+            "PANASdrowsy": true,
+            "PANASangryAtSelf": true,
+            "PANASenthusastic": true,
+            "PANASdownhearted": true,
+            "PANASsheepish": true,
+            "PANASdistressed": true,
+            "PANASblameworthy": true,
+            "PANASdetermined": true,
+            "PANASfrightened": true,
+            "PANASastonished": true,
+            "PANASinterested": true,
+            "PANASloathing": true,
+            "PANASconfident": true,
+            "PANASenergetic": true,
+            "PANASconcentrating": true,
+            "PANASdissatisfiedWSelf": true
         }
     }
 }

@@ -1,0 +1,184 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activities/psqi_context.jsonld",
+        "https://62442katieb.github.io/diva-questionnaires/activities/psqi_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "psqi",
+    "skos:prefLabel": "Pittsburgh Sleep Quality Index",
+    "skos:altLabel": "Sleep Questionnaire",
+    "schema:description": "A sleep questionnaire",
+    "preamble": "The following questions relate to your usual sleep habits during the past month only. Your answers should indicate the most accurate reply for the majority of days and nights in the past month. Please answer all questions.",
+    "variableMap": [
+        {
+            "variableName": "pittsburghSleepBedtime",
+            "isAbout": "pittsburghSleepBedtime"
+        },
+        {
+            "variableName": "pittsburghSleepFallAsleep",
+            "isAbout": "pittsburghSleepFallAsleep"
+        },
+        {
+            "variableName": "pittsburghSleepWaketime",
+            "isAbout": "pittsburghSleepWaketime"
+        },
+        {
+            "variableName": "pittsburghSleepHoursAsleep",
+            "isAbout": "pittsburghSleepHoursAsleep"
+        },
+        {
+            "variableName": "pittsburghSleepTroubleGettingToSleep",
+            "isAbout": "pittsburghSleepTroubleGettingToSleep"
+        },
+        {
+            "variableName": "pittsburghSleepWakeMiddleNight",
+            "isAbout": "pittsburghSleepWakeMiddleNight"
+        },
+        {
+            "variableName": "pittsburghSleepUseBathroom",
+            "isAbout": "pittsburghSleepUseBathroom"
+        },
+        {
+            "variableName": "pittsburghSleepUncomfortableBreathing",
+            "isAbout": "pittsburghSleepUncomfortableBreathing"
+        },
+        {
+            "variableName": "pittsburghSleepSnoring",
+            "isAbout": "pittsburghSleepSnoring"
+        },
+        {
+            "variableName": "pittsburghSleepTooCold",
+            "isAbout": "pittsburghSleepTooCold"
+        },
+        {
+            "variableName": "pittsburghSleepTooHot",
+            "isAbout": "pittsburghSleepTooHot"
+        },
+        {
+            "variableName": "pittsburghSleepBadDreams",
+            "isAbout": "pittsburghSleepBadDreams"
+        },
+        {
+            "variableName": "pittsburghSleepPain",
+            "isAbout": "pittsburghSleepPain"
+        },
+        {
+            "variableName": "pittsburghSleepIfTroubleSleepingOther",
+            "isAbout": "pittsburghSleepIfTroubleSleepingOther"
+        },
+        {
+            "variableName": "pittsburghSleepIfTroubleSleepingOtherFreq",
+            "isAbout": "pittsburghSleepIfTroubleSleepingOtherFreq"
+        },
+        {
+            "variableName": "pittsburghSleepOverallQuality",
+            "isAbout": "pittsburghSleepOverallQuality"
+        },
+        {
+            "variableName": "pittsburghSleepMedication",
+            "isAbout": "pittsburghSleepMedication"
+        },
+        {
+            "variableName": "pittsburghSleepTroubleStayingAwake",
+            "isAbout": "pittsburghSleepTroubleStayingAwake"
+        },
+        {
+            "variableName": "pittsburghSleepEnthusiasm",
+            "isAbout": "pittsburghSleepEnthusiasm"
+        },
+        {
+            "variableName": "pittsburghSleepPartner",
+            "isAbout": "pittsburghSleepPartner"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerSnore",
+            "isAbout": "pittsburghSleepIfPartnerSnore"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerPause",
+            "isAbout": "pittsburghSleepIfPartnerPause"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerLegs",
+            "isAbout": "pittsburghSleepIfPartnerLegs"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerDisorient",
+            "isAbout": "pittsburghSleepIfPartnerDisorient"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerOther",
+            "isAbout": "pittsburghSleepIfPartnerOther"
+        },
+        {
+            "variableName": "pittsburghSleepIfPartnerOtherFreq",
+            "isAbout": "pittsburghSleepIfPartnerOtherFreq"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "pittsburghSleepBedtime",
+            "pittsburghSleepFallAsleep",
+            "pittsburghSleepWaketime",
+            "pittsburghSleepHoursAsleep",
+            "pittsburghSleepTroubleGettingToSleep",
+            "pittsburghSleepWakeMiddleNight",
+            "pittsburghSleepUseBathroom",
+            "pittsburghSleepUncomfortableBreathing",
+            "pittsburghSleepSnoring",
+            "pittsburghSleepTooCold",
+            "pittsburghSleepTooHot",
+            "pittsburghSleepBadDreams",
+            "pittsburghSleepPain",
+            "pittsburghSleepIfTroubleSleepingOther",
+            "pittsburghSleepIfTroubleSleepingOtherFreq",
+            "pittsburghSleepOverallQuality",
+            "pittsburghSleepMedication",
+            "pittsburghSleepTroubleStayingAwake",
+            "pittsburghSleepEnthusiasm",
+            "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerSnore",
+            "pittsburghSleepIfPartnerPause",
+            "pittsburghSleepIfPartnerLegs",
+            "pittsburghSleepIfPartnerDisorient",
+            "pittsburghSleepIfPartnerOther",
+            "pittsburghSleepIfPartnerOtherFreq"
+        ],
+        "visibility": {
+            "pittsburghSleepBedtime": true,
+            "pittsburghSleepFallAsleep": true,
+            "pittsburghSleepWaketime": true,
+            "pittsburghSleepHoursAsleep": true,
+            "pittsburghSleepTroubleGettingToSleep": true,
+            "pittsburghSleepWakeMiddleNight": true,
+            "pittsburghSleepUseBathroom": true,
+            "pittsburghSleepUncomfortableBreathing": true,
+            "pittsburghSleepSnoring": true,
+            "pittsburghSleepTooCold": true,
+            "pittsburghSleepTooHot": true,
+            "pittsburghSleepBadDreams": true,
+            "pittsburghSleepPain":true,
+            "pittsburghSleepIfTroubleSleepingOther": true,
+            "pittsburghSleepIfTroubleSleepingOtherFreq": "pittsburghSleepIfTroubleSleepingOther",
+            "pittsburghSleepOverallQuality": true,
+            "pittsburghSleepMedication": true,
+            "pittsburghSleepTroubleStayingAwake": true,
+            "pittsburghSleepEnthusiasm": true,
+            "pittsburghSleepPartner": true,
+            "pittsburghSleepIfPartnerSnore": "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerPause": "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerLegs": "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerDisorient": "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerOther": "pittsburghSleepPartner",
+            "pittsburghSleepIfPartnerOtherFreq": "pittsburghSleepIfPartnerOther"
+        }
+    }
+}

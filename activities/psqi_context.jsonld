@@ -1,0 +1,109 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "pittsburghSleepBedtime": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepBedtime.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepFallAsleep": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepFallAsleep.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepWaketime": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepWaketime.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepHoursAsleep": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepHoursAsleep.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepTroubleGettingToSleep": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepTroubleGettingToSleep.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepWakeMiddleNight": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepWakeMiddleNight.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepUseBathroom": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepUseBathroom.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepUncomfortableBreathing": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepUncomfortableBreathing.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepSnoring": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepSnoring.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepTooCold": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepTooCold.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepTooHot": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepTooHot.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepBadDreams": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepBadDreams.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepPain": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepPain.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfTroubleSleepingOther": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfTroubleSleepingOther.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfTroubleSleepingOtherFreq": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfTroubleSleepingOtherFreq.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepOverallQuality": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepOverallQuality.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepMedication": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepMedication.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepTroubleStayingAwake": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepTroubleStayingAwake.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepEnthusiasm": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepEnthusiasm.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepPartner": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepPartner.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerSnore": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerSnore.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerPause": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerPause.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerLegs": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerLegs.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerDisorient": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerDisorient.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerOther": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerOther.jsonld",
+            "@type": "@id"
+        },
+        "pittsburghSleepIfPartnerOtherFreq": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/pittsburghSleepIfPartnerOtherFreq.jsonld",
+            "@type": "@id"
+        }
+    }
+}

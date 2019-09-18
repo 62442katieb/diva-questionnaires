@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
-    "@id": "pittsburghSleepFTroubleSleepingOther",
+    "@id": "pittsburghSleepIfTroubleSleepingOther",
     "skos:prefLabel": "Trouble Sleeping Other",
     "skos:altLabel": "PSQI5j",
     "schema:description": "Trouble Sleeping, Other",

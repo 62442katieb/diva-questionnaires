@@ -7,7 +7,7 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "@id": "bisbas",
+    "@id": "exercise",
     "skos:prefLabel": "Godin Leisure-Time Exercise Questionnaire",
     "skos:altLabel": "Exercise Questionnaire",
     "schema:description": "An exercise questionnaire",

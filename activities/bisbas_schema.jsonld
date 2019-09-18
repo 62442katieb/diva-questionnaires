@@ -14,100 +14,100 @@
     "preamble": "Each item of this questionnaire is a statement that a person may either agree with or disagree with. For each item,indicate how much you agree or disagree with what the item says. Please be as accurate and honest as you can be.Respond to each item as if it were the only item. That is, don't worry about being "consistent" in your responses.",
     "variableMap": [
         {
-            "variableName": "familyImportance",
-            "isAbout": "familyImportance"
+            "variableName": "BISBASfamilyImportance",
+            "isAbout": "BISBASfamilyImportance"
         },
         {
-            "variableName": "fearNervous",
-            "isAbout": "fearNervous"
+            "variableName": "BISBASfearNervous",
+            "isAbout": "BISBASfearNervous"
         },
         {
-            "variableName": "getWant",
-            "isAbout": "getWant"
+            "variableName": "BISBASgetWant",
+            "isAbout": "BISBASgetWant"
         },
         {
-            "variableName": "keepAtIt",
-            "isAbout": "keepAtIt"
+            "variableName": "BISBASkeepAtIt",
+            "isAbout": "BISBASkeepAtIt"
         },
         {
-            "variableName": "tryNewFun",
-            "isAbout": "tryNewFun"
+            "variableName": "BISBAStryNewFun",
+            "isAbout": "BISBAStryNewFun"
         },
         {
-            "variableName": "dressImportance",
-            "isAbout": "dressImportance"
+            "variableName": "BISBASdressImportance",
+            "isAbout": "BISBASdressImportance"
         },
         {
-            "variableName": "excitedGetWant",
-            "isAbout": "excitedGetWant"
+            "variableName": "BISBASexcitedGetWant",
+            "isAbout": "BISBASexcitedGetWant"
         },
         {
-            "variableName": "excitedGetWant",
-            "isAbout": "excitedGetWant"
+            "variableName": "BISBASexcitedGetWant",
+            "isAbout": "BISBASexcitedGetWant"
         },
         {
-            "variableName": "allOutGetWant",
-            "isAbout": "allOutGetWant"
+            "variableName": "BISBASallOutGetWant",
+            "isAbout": "BISBASallOutGetWant"
         },
         {
-            "variableName": "allOutGetWant",
-            "isAbout": "allOutGetWant"
+            "variableName": "BISBASallOutGetWant",
+            "isAbout": "BISBASallOutGetWant"
         },
         {
-            "variableName": "findTime",
-            "isAbout": "findTime"
+            "variableName": "BISBASfindTime",
+            "isAbout": "BISBASfindTime"
         },
         {
-            "variableName": "getSomethingMove",
-            "isAbout": "getSomethingMove"
+            "variableName": "BISBASgetSomethingMove",
+            "isAbout": "BISBASgetSomethingMove"
         },
         {
-            "variableName": "upsetSomebodyAngry",
-            "isAbout": "upsetSomebodyAngry"
+            "variableName": "BISBASupsetSomebodyAngry",
+            "isAbout": "BISBASupsetSomebodyAngry"
         },
         {
-            "variableName": "opportunityExcited",
-            "isAbout": "opportunityExcited"
+            "variableName": "BISBASopportunityExcited",
+            "isAbout": "BISBASopportunityExcited"
         },
         {
-            "variableName": "actSpurMoment",
-            "isAbout": "actSpurMoment"
+            "variableName": "BISBASactSpurMoment",
+            "isAbout": "BISBASactSpurMoment"
         },
         {
-            "variableName": "workedUpUnpleasant",
-            "isAbout": "workedUpUnpleasant"
+            "variableName": "BISBASworkedUpUnpleasant",
+            "isAbout": "BISBASworkedUpUnpleasant"
         },
         {
-            "variableName": "whyPeopleAct",
-            "isAbout": "whyPeopleAct"
+            "variableName": "BISBASwhyPeopleAct",
+            "isAbout": "BISBASwhyPeopleAct"
         },
         {
-            "variableName": "goodThingsAffect",
-            "isAbout": "goodThingsAffect"
+            "variableName": "BISBASgoodThingsAffect",
+            "isAbout": "BISBASgoodThingsAffect"
         },
         {
-            "variableName": "worryDonePoorly",
-            "isAbout": "worryDonePoorly"
+            "variableName": "BISBASworryDonePoorly",
+            "isAbout": "BISBASworryDonePoorly"
         },
         {
-            "variableName": "craveExcitement",
-            "isAbout": "craveExcitement"
+            "variableName": "BISBAScraveExcitement",
+            "isAbout": "BISBAScraveExcitement"
         },
         {
-            "variableName": "noHoldsBarred",
-            "isAbout": "noHoldsBarred"
+            "variableName": "BISBASnoHoldsBarred",
+            "isAbout": "BISBASnoHoldsBarred"
         },
         {
-            "variableName": "fewFears",
-            "isAbout": "fewFears"
+            "variableName": "BISBASfewFears",
+            "isAbout": "BISBASfewFears"
         },
         {
-            "variableName": "exciteWin",
-            "isAbout": "exciteWin"
+            "variableName": "BISBASexciteWin",
+            "isAbout": "BISBASexciteWin"
         },
         {
-            "variableName": "worryMistakes",
-            "isAbout": "worryMistakes"
+            "variableName": "BISBASworryMistakes",
+            "isAbout": "BISBASworryMistakes"
         }
     ],
     "ui": {
@@ -117,54 +117,54 @@
             "dontKnow"
         ],
         "order": [
-            "familyImportance",
-            "fearNervous",
-            "getWant",
-            "keepAtIt",
-            "tryNewFun",
-            "dressImportance",
-            "excitedGetWant",
-            "excitedGetWant",
-            "allOutGetWant",
-            "allOutGetWant",
-            "findTime",
-            "getSomethingMove",
-            "upsetSomebodyAngry",
-            "opportunityExcited",
-            "actSpurMoment",
-            "workedUpUnpleasant",
-            "whyPeopleAct",
-            "goodThingsAffect",
-            "worryDonePoorly",
-            "craveExcitement",
-            "noHoldsBarred",
-            "fewFears",
-            "exciteWin",
-            "worryMistakes"
+            "BISBASfamilyImportance",
+            "BISBASfearNervous",
+            "BISBASgetWant",
+            "BISBASkeepAtIt",
+            "BISBAStryNewFun",
+            "BISBASdressImportance",
+            "BISBASexcitedGetWant",
+            "BISBASexcitedGetWant",
+            "BISBASallOutGetWant",
+            "BISBASallOutGetWant",
+            "BISBASfindTime",
+            "BISBASgetSomethingMove",
+            "BISBASupsetSomebodyAngry",
+            "BISBASopportunityExcited",
+            "BISBASactSpurMoment",
+            "BISBASworkedUpUnpleasant",
+            "BISBASwhyPeopleAct",
+            "BISBASgoodThingsAffect",
+            "BISBASworryDonePoorly",
+            "BISBAScraveExcitement",
+            "BISBASnoHoldsBarred",
+            "BISBASfewFears",
+            "BISBASexciteWin",
+            "BISBASworryMistakes"
         ],
         "visibility": {
-            "familyImportance": true,
-            "fearNervous": true,
-            "getWant": true,
-            "keepAtIt": true,
-            "tryNewFun": true,
-            "dressImportance": true,
-            "excitedGetWant": true,
-            "allOutGetWant": true,
-            "findTime": true,
-            "getSomethingMove": true,
-            "upsetSomebodyAngry": true,
-            "opportunityExcited": true,
-            "actSpurMoment": true,
-            "workedUpUnpleasant": true,
-            "whyPeopleAct": true,
-            "goodThingsAffect": true,
-            "worryDonePoorly": true,
-            "craveExcitement": true,
-            "noHoldsBarred": true,
-            "fewFears": true,
-            "exciteWin": true,
-            "worryMistakes": true
+            "BISBASfamilyImportance": true,
+            "BISBASfearNervous": true,
+            "BISBASgetWant": true,
+            "BISBASkeepAtIt": true,
+            "BISBAStryNewFun": true,
+            "BISBASdressImportance": true,
+            "BISBASexcitedGetWant": true,
+            "BISBASallOutGetWant": true,
+            "BISBASfindTime": true,
+            "BISBASgetSomethingMove": true,
+            "BISBASupsetSomebodyAngry": true,
+            "BISBASopportunityExcited": true,
+            "BISBASactSpurMoment": true,
+            "BISBASworkedUpUnpleasant": true,
+            "BISBASwhyPeopleAct": true,
+            "BISBASgoodThingsAffect": true,
+            "BISBASworryDonePoorly": true,
+            "BISBAScraveExcitement": true,
+            "BISBASnoHoldsBarred": true,
+            "BISBASfewFears": true,
+            "BISBASexciteWin": true,
+            "BISBASworryMistakes": true
         }
     }
 }
