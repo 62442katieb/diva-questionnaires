@@ -1,0 +1,40 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "BISBASactSpurMoment",
+    "skos:prefLabel": "BAS Fun Seeking: acting on the spur of the moment",
+    "skos:altLabel": "BASFS3",
+    "schema:description": "do you act on the spur of the moment",
+    "question": "I often act on the spur of the moment.",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "minValue": 1,
+        "maxValue": 4,
+        "requiredValue": true,
+        "choices": [
+            {
+                "schema:name": "1 - very true for me",
+                "schema:value": 1
+            },
+            {
+                "schema:name": "2 - somewhat true for me",
+                "schema:value": 2
+            },
+            {
+                "schema:name": "3 - somewhat false for me",
+                "schema:value": 3
+            },
+            {
+                "schema:name": "4 - very false for me",
+                "schema:value": 4
+            }
+        ]
+    }
+}
