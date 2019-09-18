@@ -28,6 +28,10 @@
         {
             "variableName": "exercise",
             "isAbout": "exercise"
+        },
+        {
+            "variableName": "psqi",
+            "isAbout": "psqi"
         }
     ],
     "ui": {
@@ -40,19 +44,22 @@
             "panas",
             "bisbas",
             "pss",
-            "exercise"
+            "exercise",
+            "psqi"
         ],
         "visibility": {
             "panas": true,
             "bisbas": true,
             "pss": true,
-            "exercise": true
+            "exercise": true,
+            "psqi": True
         },
         "activity_display_name": {
-            "panas": "PANAS",
+            "panas": "Affect",
             "bisbas": "BIS/BAS Scale",
-            "pss": "PSS",
-            "exercise": "Exercise"
+            "pss": "Stress",
+            "exercise": "Exercise",
+            "psqi": "Sleep"
         }
     }
 }

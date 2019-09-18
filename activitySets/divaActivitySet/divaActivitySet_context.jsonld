@@ -16,6 +16,10 @@
         "exercise": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/activities/exercise_schema.jsonld",
             "@type": "@id"
+        },
+        "psqi": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/psqi_schema.jsonld",
+            "@type": "@id"
         }
     }
 }
