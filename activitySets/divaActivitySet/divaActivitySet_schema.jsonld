@@ -52,7 +52,7 @@
             "bisbas": true,
             "pss": true,
             "exercise": true,
-            "psqi": True
+            "psqi": true
         },
         "activity_display_name": {
             "panas": "Affect",
