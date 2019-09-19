@@ -19,6 +19,7 @@
         },
         "physical_state": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_schema.jsonld",
+            "@type": "@id"
         },
          "psqi": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/activities/psqi_schema.jsonld",
