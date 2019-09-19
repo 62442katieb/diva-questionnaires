@@ -7,7 +7,9 @@
     "skos:prefLabel": "Wake Up With Pain",
     "skos:altLabel": "PSQI5i",
     "schema:description": "sleep disturbances - pain",
-    "question": "### During the past month how often have you had trouble sleeping because you... \r\n\r\nHave pain",
+    "question": {
+        "en": "### During the past month how often have you had trouble sleeping because you... \r\n\r\nHave pain"
+    },
     "ui": {
         "inputType": "radio",
         "allow": [

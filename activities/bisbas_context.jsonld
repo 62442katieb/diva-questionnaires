@@ -29,6 +29,14 @@
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASexcitedGetWant.jsonld",
             "@type": "@id"
         },
+        "BISBAScriticismHurts": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBAScriticismHurts.jsonld",
+            "@type": "@id"
+        },
+        "BISBASnoReasonFun": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASnoReasonFun.jsonld",
+            "@type": "@id"
+        },
         "BISBASallOutGetWant": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASallOutGetWant.jsonld",
             "@type": "@id"
@@ -81,7 +89,7 @@
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASfewFears.jsonld",
             "@type": "@id"
         },
-        "exciteWin": {
+        "BISBASexciteWin": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASexciteWin.jsonld",
             "@type": "@id"
         },

@@ -3,11 +3,11 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "@id": "BISBASexcitedGetWant",
-    "skos:prefLabel": "BAS Reward Responsiveness question about excitement getting what you want",
-    "skos:altLabel": "BASRR2",
-    "schema:description": "asks participant if they get excited when they get something they want",
-    "question": "When I get something I want, I feel excited and energized",
+    "@id": "BISBAScriticismHurts",
+    "skos:prefLabel": "BIS question about feeling hurt by criticism",
+    "skos:altLabel": "BIS2",
+    "schema:description": "asks participant if they feel hurt by criticism or scolding",
+    "question": "Criticism or scolding hurts me quite a bit.",
     "ui": {
         "inputType": "radio",
         "allow": [

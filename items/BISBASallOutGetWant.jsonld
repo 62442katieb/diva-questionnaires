@@ -4,10 +4,10 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "@id": "BISBASallOutGetWant",
-    "skos:prefLabel": "BAS Fun Seeking: doing things just because they're fun",
-    "skos:altLabel": "BASFS2",
-    "schema:description": "asks participant if they often do things just because they might be fun",
-    "question": "I will often do things for no other reason than that they might be fun.",
+    "skos:prefLabel": "BAS Drive: all-out to get what you want",
+    "skos:altLabel": "BASDr2",
+    "schema:description": "asks participant if they go all out to get what they want",
+    "question": "When I want something I usually go all-out to get it.",
     "ui": {
         "inputType": "radio",
         "allow": [

@@ -7,7 +7,7 @@
     "skos:prefLabel": "how inspired have you felt?",
     "skos:altLabel": "PANASinspired",
     "schema:description": "asking how scornful ppt has felt during the past week, on a scale from 1 to 5",
-    "question": "How **scornful** have you felt during the past week?",
+    "question": "How **inspired** have you felt during the past week?",
     "ui": {
         "inputType": "radio",
         "allow": [

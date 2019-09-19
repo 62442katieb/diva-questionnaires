@@ -3,11 +3,11 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "@id": "BISBASexcitedGetWant",
-    "skos:prefLabel": "BAS Reward Responsiveness question about excitement getting what you want",
-    "skos:altLabel": "BASRR2",
-    "schema:description": "asks participant if they get excited when they get something they want",
-    "question": "When I get something I want, I feel excited and energized",
+    "@id": "BISBASnoReasonFun",
+    "skos:prefLabel": "BAS Fun Seeking: doing things just because they're fun",
+    "skos:altLabel": "BASFS2",
+    "schema:description": "asks participant if they often do things just because they might be fun",
+    "question": "I will often do things for no other reason than that they might be fun.",
     "ui": {
         "inputType": "radio",
         "allow": [
