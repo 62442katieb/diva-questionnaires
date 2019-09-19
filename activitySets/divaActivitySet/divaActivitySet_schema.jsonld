@@ -33,6 +33,7 @@
             "variableName": "physical_state",
             "isAbout": "physical_state"
         },
+        {
             "variableName": "psqi",
             "isAbout": "psqi"
         }
