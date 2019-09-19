@@ -33,7 +33,7 @@
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAspirinHours.jsonld",
             "@type": "@id"
         },
-        "physicalStateAspirin": {
+        "physicalStateAspirinMg": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateAspirinMg.jsonld",
             "@type": "@id"
         },
