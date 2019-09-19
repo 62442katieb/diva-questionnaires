@@ -45,7 +45,7 @@
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateIbuprofenHours.jsonld",
             "@type": "@id"
         },
-        "physicalStateIbuprofen": {
+        "physicalStateIbuprofenMg": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/physicalStateIbuprofenMg.jsonld",
             "@type": "@id"
         },
