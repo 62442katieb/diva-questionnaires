@@ -30,6 +30,9 @@
             "isAbout": "exercise"
         },
         {
+            "variableName": "physical_state",
+            "isAbout": "physical_state"
+        },
             "variableName": "psqi",
             "isAbout": "psqi"
         }
@@ -45,6 +48,7 @@
             "bisbas",
             "pss",
             "exercise",
+            "physical_state",
             "psqi"
         ],
         "visibility": {
@@ -52,11 +56,13 @@
             "bisbas": true,
             "pss": true,
             "exercise": true,
+            "physical_state": true,
             "psqi": true
         },
         "activity_display_name": {
             "panas": "Affect",
             "bisbas": "BIS/BAS Scale",
+            "physical_state": "Physical State",
             "pss": "Stress",
             "exercise": "Exercise",
             "psqi": "Sleep"

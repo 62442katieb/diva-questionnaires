@@ -1,0 +1,32 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "physicalStateCigarette",
+    "skos:prefLabel": "Physical cigarette",
+    "skos:altLabel": "PHYS04",
+    "schema:description": "asks participant if they've had nicotine recently",
+    "question": "Have you smoked a cigarette (traditional or electronic) in the past 24 hours?",
+    "responseOptions": {
+       "multipleChoice": false,
+       "choices": [
+           {
+               "schema:value": 0,
+               "schema:name": {
+                   "en": "No"
+               }
+           },
+           {
+               "schema:value": 1,
+               "schema:name": {
+                   "en": "Yes"
+               }
+           }
+       ],
+       "type": "Nominal"
+   },
+   "ui": {
+       "inputType": "radio"
+   }
+}

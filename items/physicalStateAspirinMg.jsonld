@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "physicalStateAspirinMg",
+    "skos:prefLabel": "Physical aspirin mg",
+    "skos:altLabel": "PHYS09",
+    "schema:description": "asks participant how much aspirin",
+    "question": "How many milligrams of aspirin?",
+    "ui": {
+        "inputType": "text",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "physicalStateCaffeineHours",
+    "skos:prefLabel": "Physical cigarette hours",
+    "skos:altLabel": "PHYS05",
+    "schema:description": "asks participant when they had nicotine",
+    "question": "If so, how many hours ago?",
+    "ui": {
+        "inputType": "text",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 3
+    }
+}
