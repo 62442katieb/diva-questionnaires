@@ -1,0 +1,20 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "@id": "pittsburghSleepIfTroubleSleepingOther",
+    "skos:prefLabel": "Trouble Sleeping Other",
+    "skos:altLabel": "PSQI5j",
+    "schema:description": "Trouble Sleeping, Other",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "During the past month, how often have you had trouble sleeping because you... \r\n\r\nOther reason(s), please describe:",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "maxLength": 500
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "@id": "pittsburghSleepBetime",
+    "skos:prefLabel": "Usual bedtime",
+    "skos:altLabel": "PSQI1",
+    "schema:description": "Bed Time in Past Month",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "During the past month, what time have you usually gone to bed?",
+    "ui": {
+        "inputType": "timeRange"
+    },
+    "responseOptions": {
+        "type": "timeRange"
+    }
+}

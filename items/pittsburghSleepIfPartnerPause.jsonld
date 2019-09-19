@@ -1,0 +1,40 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "@id": "pittsburghSleepIfPartnerPause",
+    "skos:prefLabel": "If Partner/Roommate, Pauses Between Breaths?",
+    "skos:altLabel": "PSQI10a",
+    "schema:description": "does partner or roommate say you pause between breaths",
+    "question": "### Ask your room mate or bed partner how often in the past month you have had...\r\n\r\nLong pauses between breaths while asleep",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "minValue": 1,
+        "maxValue": 4,
+        "requiredValue": true,
+        "choices": [
+            {
+                "schema:name": "1 - Not during the past month",
+                "schema:value": 1
+            },
+            {
+                "schema:name": "2 - Less than once a week",
+                "schema:value": 2
+            },
+            {
+                "schema:name": "3 - Once or twice a week",
+                "schema:value": 3
+            },
+            {
+                "schema:name": "4 - Three or more times a week",
+                "schema:value": 4
+            },
+        ]
+    }
+}
