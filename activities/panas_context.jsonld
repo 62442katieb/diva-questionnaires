@@ -1,243 +1,243 @@
 {
     "@context": {
         "@version": 1.1,
-        "cheerful": {
+        "PANAScheerful": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAScheerful.jsonld",
             "@type": "@id"
         },
-        "disgusted": {
+        "PANASdisgusted": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdisgusted.jsonld",
             "@type": "@id"
         },
-        "attentive": {
+        "PANASattentive": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASattentive.jsonld",
             "@type": "@id"
         },
-        "bashful": {
+        "PANASbashful": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASbashful.jsonld",
             "@type": "@id"
         },
-        "sluggish": {
+        "PANASsluggish": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASsluggish.jsonld",
             "@type": "@id"
         },
-        "daring": {
+        "PANASdaring": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdaring.jsonld",
             "@type": "@id"
         },
-        "surprised": {
+        "PANASsurprised": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASsurprised.jsonld",
             "@type": "@id"
         },
-        "strong": {
+        "PANASstrong": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASstrong.jsonld",
             "@type": "@id"
         },
-        "scornful": {
+        "PANASscornful": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASscornful.jsonld",
             "@type": "@id"
         },
-        "relaxed": {
+        "PANASrelaxed": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASrelaxed.jsonld",
             "@type": "@id"
         },
-        "irritable": {
+        "PANASirritable": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASirritable.jsonld",
             "@type": "@id"
         },
-        "delighted": {
+        "PANASdelighted": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdelighted.jsonld",
             "@type": "@id"
         },
-        "inspired": {
+        "PANASinspired": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASinspired.jsonld",
             "@type": "@id"
         },
-        "fearless": {
+        "PANASfearless": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASfearless.jsonld",
             "@type": "@id"
         },
-        "disgustedWSelf": {
+        "PANASdisgustedWSelf": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdisgustedWSelf.jsonld",
             "@type": "@id"
         },
-        "sad": {
+        "PANASsad": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASsad.jsonld",
             "@type": "@id"
         },
-        "calm": {
+        "PANAScalm": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAScalm.jsonld",
             "@type": "@id"
         },
-        "afraid": {
+        "PANASafraid": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASafraid.jsonld",
             "@type": "@id"
         },
-        "tired": {
+        "PANAStired": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAStired.jsonld",
             "@type": "@id"
         },
-        "amazed": {
+        "PANASamazed": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASamazed.jsonld",
             "@type": "@id"
         },
-        "shaky": {
+        "PANASshaky": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASshaky.jsonld",
             "@type": "@id"
         },
-        "happy": {
+        "PANAShappy": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAShappy.jsonld",
             "@type": "@id"
         },
-        "timid": {
+        "PANAStimid": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAStimid.jsonld",
             "@type": "@id"
         },
-        "alone": {
+        "PANASalone": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASalone.jsonld",
             "@type": "@id"
         },
-        "alert": {
+        "PANASalert": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASalert.jsonld",
             "@type": "@id"
         },
-        "upset": {
+        "PANASupset": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASupset.jsonld",
             "@type": "@id"
         },
-        "angry": {
+        "PANASangry": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASangry.jsonld",
             "@type": "@id"
         },
-        "bold": {
+        "PANASbold": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASbold.jsonld",
             "@type": "@id"
         },
-        "blue": {
+        "PANASblue": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASblue.jsonld",
             "@type": "@id"
         },
-        "shy": {
+        "PANASshy": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASshy.jsonld",
             "@type": "@id"
         },
-        "active": {
+        "PANASactive": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASactive.jsonld",
             "@type": "@id"
         },
-        "guilty": {
+        "PANASguilty": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASguilty.jsonld",
             "@type": "@id"
         },
-        "joyful": {
+        "PANASjoyful": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASjoyful.jsonld",
             "@type": "@id"
         },
-        "nervous": {
+        "PANASnervous": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASnervous.jsonld",
             "@type": "@id"
         },
-        "lonely": {
+        "PANASlonely": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASlonely.jsonld",
             "@type": "@id"
         },
-        "sleepy": {
+        "PANASsleepy": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASsleepy.jsonld",
             "@type": "@id"
         },
-        "excited": {
+        "PANASexcited": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASexcited.jsonld",
             "@type": "@id"
         },
-        "hostile": {
+        "PANAShostile": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANAShostile.jsonld",
             "@type": "@id"
         },
-        "proud": {
+        "PANASproud": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASproud.jsonld",
             "@type": "@id"
         },
-        "jittery": {
+        "PANASjittery": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASjittery.jsonld",
             "@type": "@id"
         },
-        "lively": {
+        "PANASlively": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASlively.jsonld",
             "@type": "@id"
         },
-        "ashamed": {
+        "PANASashamed": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASashamed.jsonld",
             "@type": "@id"
         },
-        "atEase": {
+        "PANASatEase": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASatEase.jsonld",
             "@type": "@id"
         },
-        "scared": {
+        "PANASscared": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASscared.jsonld",
             "@type": "@id"
         },
-        "drowsy": {
+        "PANASdrowsy": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdrowsy.jsonld",
             "@type": "@id"
         },
-        "angryAtSelf": {
+        "PANASangryAtSelf": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASangryAtSelf.jsonld",
             "@type": "@id"
         },
-        "enthusastic": {
+        "PANASenthusastic": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASenthusastic.jsonld",
             "@type": "@id"
         },
-        "downhearted": {
+        "PANASdownhearted": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdownhearted.jsonld",
             "@type": "@id"
         },
-        "sheepish": {
+        "PANASsheepish": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASsheepish.jsonld",
             "@type": "@id"
         },
-        "distressed": {
+        "PANASdistressed": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdistressed.jsonld",
             "@type": "@id"
         },
-        "blameworthy": {
+        "PANASblameworthy": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASblameworthy.jsonld",
             "@type": "@id"
         },
-        "determined": {
+        "PANASdetermined": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdetermined.jsonld",
             "@type": "@id"
         },
-        "frightened": {
+        "PANASfrightened": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASfrightened.jsonld",
             "@type": "@id"
         },
-        "astonished": {
+        "PANASastonished": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASastonished.jsonld",
             "@type": "@id"
         },
-        "interested": {
+        "PANASinterested": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASinterested.jsonld",
             "@type": "@id"
         },
-        "loathing": {
+        "PANASloathing": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASloathing.jsonld",
             "@type": "@id"
         },
-        "confident": {
+        "PANASconfident": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASconfident.jsonld",
             "@type": "@id"
         },
-        "energetic": {
+        "PANASenergetic": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASenergetic.jsonld",
             "@type": "@id"
         },
-        "concentrating": {
+        "PANASconcentrating": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASconcentrating.jsonld",
             "@type": "@id"
         },
-        "dissatisfiedWSelf": {
+        "PANASdissatisfiedWSelf": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/PANASdissatisfiedWSelf.jsonld",
             "@type": "@id"
         }

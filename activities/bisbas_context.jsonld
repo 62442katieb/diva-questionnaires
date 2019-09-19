@@ -1,83 +1,83 @@
 {
     "@context": {
         "@version": 1.1,
-        "familyImportance": {
+        "BISBASfamilyImportance": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASfamilyImportance.jsonld",
             "@type": "@id"
         },
-        "fearNervous": {
+        "BISBASfearNervous": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASfearNervous.jsonld",
             "@type": "@id"
         },
-        "getWant": {
+        "BISBASgetWant": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASgetWant.jsonld",
             "@type": "@id"
         },
-        "keepAtIt": {
+        "BISBASkeepAtIt": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASkeepAtIt.jsonld",
             "@type": "@id"
         },
-        "tryNewFun": {
+        "BISBAStryNewFun": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBAStryNewFun.jsonld",
             "@type": "@id"
         },
-        "dressImportance": {
+        "BISBASdressImportance": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASdressImportance.jsonld",
             "@type": "@id"
         },
-        "excitedGetWant": {
+        "BISBASexcitedGetWant": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASexcitedGetWant.jsonld",
             "@type": "@id"
         },
-        "allOutGetWant": {
+        "BISBASallOutGetWant": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASallOutGetWant.jsonld",
             "@type": "@id"
         },
-        "findTime": {
+        "BISBASfindTime": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASfindTime.jsonld",
             "@type": "@id"
         },
-        "getSomethingMove": {
+        "BISBASgetSomethingMove": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASgetSomethingMove.jsonld",
             "@type": "@id"
         },
-        "upsetSomebodyAngry": {
+        "BISBASupsetSomebodyAngry": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASupsetSomebodyAngry.jsonld",
             "@type": "@id"
         },
-        "opportunityExcited": {
+        "BISBASopportunityExcited": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASopportunityExcited.jsonld",
             "@type": "@id"
         },
-        "actSpurMoment": {
+        "BISBASactSpurMoment": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASactSpurMoment.jsonld",
             "@type": "@id"
         },
-        "workedUpUnpleasant": {
+        "BISBASworkedUpUnpleasant": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASworkedUpUnpleasant.jsonld",
             "@type": "@id"
         },
-        "whyPeopleAct": {
+        "BISBASwhyPeopleAct": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASwhyPeopleAct.jsonld",
             "@type": "@id"
         },
-        "goodThingsAffect": {
+        "BISBASgoodThingsAffect": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASgoodThingsAffect.jsonld",
             "@type": "@id"
         },
-        "worryDonePoorly": {
+        "BISBASworryDonePoorly": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASworryDonePoorly.jsonld",
             "@type": "@id"
         },
-        "craveExcitement": {
+        "BISBAScraveExcitement": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBAScraveExcitement.jsonld",
             "@type": "@id"
         },
-        "noHoldsBarred": {
+        "BISBASnoHoldsBarred": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASnoHoldsBarred.jsonld",
             "@type": "@id"
         },
-        "fewFears": {
+        "BISBASfewFears": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASfewFears.jsonld",
             "@type": "@id"
         },
@@ -85,7 +85,7 @@
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASexciteWin.jsonld",
             "@type": "@id"
         },
-        "worryMistakes": {
+        "BISBASworryMistakes": {
             "@id": "https://62442katieb.github.io/diva-questionnaires/items/BISBASworryMistakes.jsonld",
             "@type": "@id"
         }
