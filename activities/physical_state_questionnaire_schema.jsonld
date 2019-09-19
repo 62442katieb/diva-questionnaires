@@ -1,8 +1,8 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
-        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_context.jsonld.jsonld",
-        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_context.jsonld.jsonld"
+        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_context.jsonld",
+        "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
     "schema:schemaVersion": "0.0.1",
