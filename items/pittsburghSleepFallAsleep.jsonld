@@ -10,7 +10,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "question": {
-        "en": "During the past month, how long (in minutes) has it usually taken you to fall asleep each night? \n(in minutes)"
+        "en": "During the past month, how long (in minutes) has it usually taken you to fall asleep each night? \r\n\r\n(in minutes)"
     },
     "ui": {
         "inputType": "text"
