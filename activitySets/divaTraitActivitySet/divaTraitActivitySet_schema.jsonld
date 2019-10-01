@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activitySets/divaActivitySet/divaActivitySet_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "schema:about": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/README.md",
+    "schema:image": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/diva_flavicon.png",
+    "@id": "divaActivitySet",
+    "skos:prefLabel": "diva activity set",
+    "skos:altLabel": "divaActivity",
+    "schema:description": "an activitySet that administers all the questionnaires for DIVA",
+    "variableMap": [
+        {
+            "variableName": "bisbas",
+            "isAbout": "bisbas"
+        },
+        {
+            "variableName": "math_anxiety",
+            "isAbout": "math_anxiety"
+        },
+        {
+            "variableName": "gender_identity",
+            "isAbout": "gender_identity"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "bisbas",
+            "math_anxiety",
+            "gender_identity"
+        ],
+        "visibility": {
+            "bisbas": true,
+            "math_anxiety": true,
+            "gender_identity": true
+        },
+        "activity_display_name": {
+            "bisbas": "BIS-BAS Scale",
+            "math_anxiety": "Math Anxiety",
+            "gender_identity": "Gender Identity"
+        }
+    }
+}

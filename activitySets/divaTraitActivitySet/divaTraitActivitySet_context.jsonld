@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "bisbas": {
+          "@id": "https://62442katieb.github.io/diva-questionnaires/activities/bisbas_schema.jsonld",
+          "@type": "@id"
+        },
+        "math_anxiety": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/math_anxiety_schema.jsonld",
+            "@type": "@id"
+        },
+        "gender_identity": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/gender_identity_schema.jsonld",
+            "@type": "@id"
+        }
+    }
+}

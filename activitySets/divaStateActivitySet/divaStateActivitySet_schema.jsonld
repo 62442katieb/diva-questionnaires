@@ -1,0 +1,72 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://62442katieb.github.io/diva-questionnaires/activitySets/divaActivitySet/divaTraitActivitySet_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "schema:about": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/README.md",
+    "schema:image": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/diva_flavicon.png",
+    "@id": "divaActivitySet",
+    "skos:prefLabel": "diva activity set",
+    "skos:altLabel": "divaActivity",
+    "schema:description": "an activitySet that administers all the questionnaires for DIVA",
+    "variableMap": [
+        {
+            "variableName": "panas",
+            "isAbout": "panas"
+        },
+        {
+            "variableName": "pss",
+            "isAbout": "pss"
+        },
+        {
+            "variableName": "exercise",
+            "isAbout": "exercise"
+        },
+        {
+            "variableName": "physical_state",
+            "isAbout": "physical_state"
+        },
+        {
+            "variableName": "psqi",
+            "isAbout": "psqi"
+        },
+        {
+            "variableName": "voice_task",
+            "isAbout": "voice_task"
+        }
+    ],
+    "ui": {
+        "shuffle": false,
+        "allow": [
+            "skipped",
+            "dontKnow"
+        ],
+        "order": [
+            "panas",
+            "pss",
+            "exercise",
+            "physical_state",
+            "psqi",
+            "voice_task"
+        ],
+        "visibility": {
+            "panas": true,
+            "pss": true,
+            "exercise": true,
+            "physical_state": true,
+            "psqi": true,
+            "voice_task": true
+        },
+        "activity_display_name": {
+            "panas": "Affect",
+            "physical_state": "Physical State",
+            "pss": "Stress",
+            "exercise": "Exercise",
+            "psqi": "Sleep",
+            "voice_task": "Voice"
+        }
+    }
+}

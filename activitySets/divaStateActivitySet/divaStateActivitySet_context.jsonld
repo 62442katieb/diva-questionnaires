@@ -1,0 +1,29 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "panas": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/panas_schema.jsonld",
+            "@type": "@id"
+        },
+        "pss": {
+          "@id": "https://62442katieb.github.io/diva-questionnaires/activities/perceived_stress_schema.jsonld",
+          "@type": "@id"
+        },
+        "exercise": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/exercise_schema.jsonld",
+            "@type": "@id"
+        },
+        "physical_state": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/physical_state_questionnaire_schema.jsonld",
+            "@type": "@id"
+        },
+         "psqi": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/psqi_schema.jsonld",
+            "@type": "@id"
+        },
+        "voice_task": {
+            "@id": "https://62442katieb.github.io/diva-questionnaires/activities/voice_task_schema.jsonld",
+            "@type": "@id"
+        }
+    }
+}
