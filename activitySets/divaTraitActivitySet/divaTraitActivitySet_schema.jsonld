@@ -9,9 +9,9 @@
     "schema:about": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/README.md",
     "schema:image": "https://raw.githubusercontent.com/62442katieb/diva-questionnaires/master/diva_flavicon.png",
     "@id": "divaActivitySet",
-    "skos:prefLabel": "diva activity set",
+    "skos:prefLabel": "DIVA Trait activity set",
     "skos:altLabel": "divaActivity",
-    "schema:description": "an activitySet that administers all the questionnaires for DIVA",
+    "schema:description": "an activitySet that administers trait the questionnaires for the Dense Investigation of Variability in Affect (DIVA) Study",
     "variableMap": [
         {
             "variableName": "bisbas",
